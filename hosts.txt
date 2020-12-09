@@ -9,3 +9,4 @@
 0.0.0.0 psm.knowbe4.com
 0.0.0.0 phishtest.knowbe4.com
 0.0.0.0 eu-phishtest.knowbe4.com
+0.0.0.0 _spf.psm.knowbe4.com
